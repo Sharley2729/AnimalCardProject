@@ -1,7 +1,8 @@
-# Animal Trading Card Project
+# Animal Trading Card Project - Udacity [Front End Web Development Nano Degree]
 ![Screenshot (17)](https://github.com/Sharley2729/AnimalTradingCardProject/assets/133542216/09ba382f-50ec-4176-97d4-185a819de3be)
 
 Reviewer Feedback:
+
 "Dear Student,
 
 This work shows lots of effort and time has been put into this work to achieve this submission. You successfully created a card showing some fun facts about your favorite animal. I learned a lot in the process. I must commend the effort and acknowledge the fact that you have a mastery of the course content at your palm. Please keep up the spirit and remain brilliant."
