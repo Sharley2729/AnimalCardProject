@@ -1,0 +1,83 @@
+body 
+{
+background-image: url("https://cdn.pixabay.com/photo/2017/03/29/11/45/dunes-2184976_1280.jpg");
+background-size: 100%;
+}
+
+.card
+{
+width: 350px; 
+height: 550px;
+text-align: center;
+margin: auto;
+border-style: solid;
+border-color: rgb(255, 214, 160);
+border-width: 2px;
+box-shadow: 0 4px 15px rgb(255, 214, 160); 
+}
+
+
+h2
+{
+width: 100px; 
+height: 30px;
+margin: auto; 
+margin-top: 10px;
+padding: 7px; 
+font-family: "arial";
+color: white;
+border-style: solid ; 
+border-width: 2px; 
+border-color: rgb(255, 214, 160); 
+box-shadow: 0 4px 15px rgb(255, 214, 160);
+}
+
+.pumaimage 
+{ 
+background-image: url("https://cdn.pixabay.com/photo/2014/02/27/16/10/animal-276002_1280.jpg");
+background-size: contain;
+width: 300px; 
+height: 200px; 
+margin: auto;
+margin-top: 10px;
+text-align: center; 
+border-style: solid; 
+border-width: 2px; 
+border-color: rgb(255, 214, 160);
+box-shadow: 0 4px 15px rgb(255, 214, 160);
+}
+
+.pumatext
+{  
+font-family: "arial";
+font-size: 11pt;
+color: white;
+width: 300px; 
+height: 230px; 
+margin: auto;
+margin-top: 10px;
+padding: 1px;
+text-align: center; 
+border-style: solid; 
+border-width: 2px; 
+border-color: rgb(255, 214, 160);
+box-shadow: 0 4px 15px rgb(255, 214, 160);  
+}
+
+p 
+{ 
+font-style: italic; 
+color: white; 
+text-align: center;
+}
+
+ul 
+{
+list-style-type: none;
+text-align: left;
+}
+
+span 
+{
+font-weight: bold; 
+}
