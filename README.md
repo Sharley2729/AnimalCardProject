@@ -2,6 +2,7 @@
 ![Screenshot (17)](https://github.com/Sharley2729/AnimalTradingCardProject/assets/133542216/09ba382f-50ec-4176-97d4-185a819de3be)
 
 Reviewer Feedback:
+-
 
 "Dear Student,
 
@@ -11,6 +12,7 @@ Grade - Passed
 
 
 Project Summary
+-
 
 In this project, you'll have the opportunity to demonstrate your new web development skills by re-creating a webpage from a design prototype.
 This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated into an actual, functional website.
@@ -19,6 +21,7 @@ The design prototype used in this project (which you can see in the image below)
 ![Screenshot (19)](https://github.com/Sharley2729/AnimalTradingCardProject/assets/133542216/5296d87b-cfd2-4c61-9aff-d652b0798a67)
 
 Project Criteria
+-
 
 Design Specifics
 - Page resembles card from design prototype.
@@ -45,5 +48,4 @@ Separation of Concerns
 - HTML code does not include <style> elements or style attributes in the body.
 
 Code Quality
-- 	
-Code is ready for review, meaning new lines and indentation are used for easy readability.
+- Code is ready for review, meaning new lines and indentation are used for easy readability.
